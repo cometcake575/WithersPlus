@@ -1,0 +1,12 @@
+# Toggles for custom wither abilities
+ability-toggles:
+  # Wither occasionally shoots 3 skulls
+  triple-skull: true
+  # Wither will sometimes dash forwards quickly, destroying blocks and causing explosion damage
+  dash: true
+
+# Configuration settings for modified vanilla values
+settings:
+  # Effective max health of the withers
+  # This will not set the actual max health of the wither, as the value for actual max health is capped at 1024
+  effective-max-health: 600

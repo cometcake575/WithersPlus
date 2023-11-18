@@ -1,0 +1,6 @@
+name: WithersPlus
+main: com.starshootercity.WithersPlus
+version: 1.0.0
+description: A plugin that improves the wither bossfight to make it more difficult
+api-version: '1.20'
+author: cometcake575
